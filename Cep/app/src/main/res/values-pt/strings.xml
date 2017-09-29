@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consultar Cep</string>
+    <string name="msgVazio">Campo vazio</string>
+    <string name="cepmsg">Insira um cep valido</string>
+    <string name="Trua">Rua</string>
+    <string name="TCep">Cep</string>
+    <string name="TBAI">Bairro</string>
+    <string name="Tcid">Cidade</string>
+    <string name="Test">Estado</string>
+    <string name="BtnMa">Buscar</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consultar Cep</string>
+    <string name="msgVazio">Empty field</string>
+    <string name="cepmsg">Please enter a valid zip code</string>
+    <string name="Trua">Street</string>
+    <string name="TCep">ZipCode</string>
+    <string name="TBAI">Bairro</string>
+    <string name="Tcid">Neighborhood</string>
+    <string name="Test">State</string>
+    <string name="BtnMa">Search</string>
+</resources>
